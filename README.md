@@ -76,5 +76,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=120&section=footer"/>
 </p>
