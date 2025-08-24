@@ -1,3 +1,12 @@
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=500&color=FF006F&center=true&vCenter=true&random=false&width=500&lines=⚡+Hello%2C+World!;🔥+Welcome+to+my+Profile;💡+Let's+Build+Something+Cool" />
+
+
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=180&section=header&text=Pranav%20Chopdekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
