@@ -70,8 +70,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pranavchopdekar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/Whauv"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
   <a href="mailto:prch5047@colorado.edu"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
 </p>
 
