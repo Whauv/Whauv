@@ -1,15 +1,13 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=500&color=FF006F&center=true&vCenter=true&random=false&width=500&lines=⚡+Hello%2C+World!;🔥+Welcome+to+my+Profile;💡+Let's+Build+Something+Cool" />
-
-
-<!--🖼️RICK-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=⚡+Powering+Up...;💚+Welcome+to+My+GitHub!;🔥+Go+Beyond+%E2%9C%A8+PLUS+ULTRA!+✨" />
+<!--🖼️Midoriya-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://giffiles.alphacoders.com/103/103147.gif" height="240" width="370">
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=180&section=header&text=Pranav%20Chopdekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=180&section=header&text=Pranav%20Chopdekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">🎓 MS Data Science @ CU Boulder | 💻 AI/ML & DevOps Enthusiast | 📊 Data Analytics</h3>
