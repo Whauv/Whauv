@@ -5,18 +5,6 @@
 <p align="center">
 <img src="https://giffiles.alphacoders.com/103/103147.gif" height="240" width="370">
 
-<p align="center">
-  <a href="https://youtu.be/QwACoXnNcwg" target="_blank">
-    <img src="https://img.youtube.com/vi/QwACoXnNcwg/maxresdefault.jpg" 
-         alt="Now Playing on YouTube" 
-         width="350" height="200" style="border-radius:15px;">
-  </a>
-</p>
-
-<p align="center">
-  🎵 <b>Now Playing:</b> <i>You Say Run</i>  
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=180&section=header&text=Pranav%20Chopdekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
