@@ -10,6 +10,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:39ff14&height=180&section=header&text=Pranav%20Chopdekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/QwACoXnNcwg" target="_blank">
+    <img src="https://img.youtube.com/vi/QwACoXnNcwg/maxresdefault.jpg" 
+         alt="Now Playing on YouTube" 
+         width="350" height="200" style="border-radius:15px;">
+  </a>
+</p>
+
+<p align="center">
+  🎵 <b>Now Playing:</b> <i>You Say Run</i>  
+</p>
+
+
 <h3 align="center">🎓 MS Data Science @ CU Boulder | 💻 AI/ML & DevOps Enthusiast | 📊 Data Analytics</h3>
 
 ---
