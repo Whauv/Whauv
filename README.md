@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=⚡+Powering+Up...;💚+Welcome+to+My+GitHub!;🔥+Go+Beyond+%E2%9C%A8+PLUS+ULTRA!+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+GitHub!;+Go+Beyond+%E2%9C%A8+PLUS+ULTRA!+" />
 </p>
 
 <!-- Midoriya GIF -->
@@ -18,21 +18,28 @@
   <img src="https://komarev.com/ghpvc/?username=Whauv&style=for-the-badge&color=00ffef&label=PROFILE+VIEWS" />
 </p>
 
-<h3 align="center">🎓 MS Data Science @ CU Boulder | 💻 AI/ML & DevOps Enthusiast | 📊 Data Analytics</h3>
+<h3 align="center">MS Data Science @ CU Boulder</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Graduate student at **University of Colorado Boulder** (MS Data Science, 2024–26)
-- 💡 Skilled in **AI/ML, Deep Learning, NLP, and Generative AI**
-- 🧑‍💻 Experienced with **Python, SQL, R, TensorFlow, PyTorch, LangChain, AWS, Power BI, Tableau**
-- 📚 Published researcher in NLP & sentiment analysis
-- 🌱 Currently building a **Spectral Spatial CNN** for hyperspectral image analysis
-- 💬 Ask me about **Deep Learning, NLP, Cloud Infrastructure, or Data Pipelines**
+## Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+##  About Me
+- Graduate student at **University of Colorado Boulder** (MS Data Science, 2024–26)
+- Skilled in **AI/ML, Deep Learning, NLP, and Generative AI**
+- Experienced with **Python, SQL, R, TensorFlow, PyTorch, LangChain, AWS, Power BI, Tableau**
+- Published researcher in NLP & sentiment analysis
+- Currently building a **Spectral Spatial CNN** for hyperspectral image analysis
+
+---
+
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Whauv&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
@@ -40,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Whauv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
@@ -53,15 +60,7 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whauv&theme=tokyo-night&hide_border=true&area=true&area_color=00ffef" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Whauv/Whauv/output/github-contribution-grid-snake-dark.svg" />
@@ -69,7 +68,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,flask,aws,postgresql,mongodb,docker,git,linux" />
@@ -85,49 +84,42 @@
 
 ---
 
-## 🔥 Experience
-
-- 🧪 **Graduate Research Assistant** @ CU Boulder *(2025 – Present)*
+## Experience
+- **Data intern** @ Goodie Bag *(2025)*
+  - Developed AI-driven tools and analytical dashboards to deliver actionable insights, while collaborating cross-functionally to test, refine, and improve product features and user experience.
+- **Graduate Research Assistant** @ CU Boulder *(2025 – Present)*
   - Building Spectral-Spatial CNNs for hyperspectral image target analysis.
 
-- 📊 **Data Analytics Intern** @ AICTE *(2022 – 23)*
+- **Data Analytics Intern** @ AICTE *(2022 – 23)*
   - Automated SQL workflows, saving **5+ hours/month** in reporting.
 
-- 🤖 **AI/ML Intern** *(2022)*
+- **AI/ML Intern** *(2022)*
   - Deployed LSTM & BERT models with AWS integration; built e-commerce demo site.
 
-- 🔐 **Cybersecurity Intern** *(2022)*
+- **Cybersecurity Intern** *(2022)*
   - Hands-on with **Wireshark, Snort, AES, RSA, SSL/TLS**, firewalls (Cisco ASA).
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Accuracy |
 |---|---|---|---|
-| 🧠 **[Elifier](https://github.com/Whauv)** | NLP Toxic Comment Classifier | LSTM, Python, NLP | 95% |
-| 👁️ **[Third Eye](https://github.com/Whauv)** | Suspicious Activity Tracker | OpenCV, Streamlit, CV | 96% |
-| 💬 **[Senseworth](https://github.com/Whauv)** | Tweet Sentiment Analysis *(Published — IJRASET 2022)* | SVM, NLP | 97% precision |
-| 🌐 **[3D-Folio](https://github.com/Whauv)** | Interactive 3D Portfolio Website | React, Three.js | — |
+|  **[Elifier](https://github.com/Whauv)** | NLP Toxic Comment Classifier | LSTM, Python, NLP | 95% |
+|  **[Third Eye](https://github.com/Whauv)** | Suspicious Activity Tracker | OpenCV, Streamlit, CV | 96% |
+|  **[Senseworth](https://github.com/Whauv)** | Tweet Sentiment Analysis *(Published — IJRASET 2022)* | SVM, NLP | 97% precision |
+|  **[3D-Folio](https://github.com/Whauv)** | Interactive 3D Portfolio Website | React, Three.js | — |
 
 ---
 
-## 🎖 Certifications
+## Certifications
 
-- 🏆 **AWS Certified Cloud Practitioner**
-- 🛡️ **Zscaler Cybersecurity Fundamentals**
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+- **AWS Certified Cloud Practitioner**
+- **Zscaler Cybersecurity Fundamentals**
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavchopdekar/">
