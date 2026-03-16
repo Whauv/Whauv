@@ -1,11 +1,11 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+GitHub!;+Go+Beyond+PLUS+ULTRA!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=500&color=00FFEF&center=true&vCenter=true&width=900&lines=A+thousand+years+of+magic,+one+line+of+code+at+a+time." />
 </p>
 
 <!-- Midoriya GIF -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/103/103147.gif" height="240" width="370">
+  <img src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif" height="240" width="300">
 </p>
 
 <!-- Banner -->
