@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+GitHub!;+Go+Beyond+%E2%9C%A8+PLUS+ULTRA!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FFEF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+GitHub!;+Go+Beyond+PLUS+ULTRA!+" />
 </p>
 
 <!-- Midoriya GIF -->
