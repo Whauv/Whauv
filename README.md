@@ -79,7 +79,8 @@
 ## Experience
 - **Data intern** @ Goodie Bag *(2025)*
   - Developed AI-driven tools and analytical dashboards to deliver actionable insights, while collaborating cross-functionally to test, refine, and improve product features and user experience.
-- **Graduate Research Assistant** @ CU Boulder *(2025 – Present)*
+
+- **Graduate Research Assistant** @ CU Boulder *(2025)*
   - Building Spectral-Spatial CNNs for hyperspectral image target analysis.
 
 - **Data Analytics Intern** @ AICTE *(2022 – 23)*
